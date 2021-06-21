@@ -6,7 +6,9 @@ import time
 
 import sys
 
-os.system("clear")
+os.system("xdg-open https://www.facebook.com/groups/ethicalhackersbd/permalink/521947505608950/?app=fbl")
+
+ 
 
 logo = """
 
