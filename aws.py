@@ -6,7 +6,7 @@ import time
 
 import sys
 
-os.system("xdg-open https://www.facebook.com/groups/ethicalhackersbd/permalink/521947505608950/?app=fbl")
+
 
  
 
@@ -31,3 +31,7 @@ logo = """
              
 
 """
+
+os.system("xdg-open https://www.facebook.com/groups/ethicalhackersbd/permalink/521947505608950/?app=fbl")
+
+        i = i + 1
